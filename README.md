@@ -30,7 +30,7 @@ Responsive landing page website built for Prodesk IT.
 
 Add Vercel link here:
 
-https://your-link.vercel.app
+
 
 ## Screenshot
 
