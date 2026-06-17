@@ -1,11 +1,11 @@
 # AI Prompts Used
 
-1. Create a responsive landing page using HTML CSS and JavaScript.
+1. Create a responsive website using HTML, CSS, and JavaScript.
 
-2. Add CSS Grid service cards with mobile responsiveness.
+2. Make service cards using CSS Grid and adjust them for mobile screens.
 
-3. Add dark mode toggle using vanilla JavaScript.
+3. Add a dark mode button using JavaScript.
 
-4. Add sticky navbar and hover animations.
+4. Add a fixed navbar and hover effects for better design.
 
-5. Explain deployment steps for GitHub and Vercel.
+5. Explain how to upload the project on GitHub and deploy on Vercel.
