@@ -34,4 +34,4 @@ https://your-link.vercel.app
 
 ## Screenshot
 
-Add website screenshot here.
+https://drive.google.com/drive/folders/1OXYAa5ZwPwKJ6JUIbQxGrNM0iNYoA9J6?usp=drive_link
