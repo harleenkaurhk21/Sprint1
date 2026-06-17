@@ -43,7 +43,7 @@ cursor:pointer;
 }
 .hero{
 height:100vh;
-background-image:url("images/images 2.jpg");
+background-image:url("images 2.jpg");
 background-size:cover;
 background-position:center;
 display:flex;
